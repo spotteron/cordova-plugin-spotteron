@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-translate",
+  "name": "cordova-plugin-spotteron",
   "version": "1.0.0",
-  "description": "Cordova Plugin Translate",
+  "description": "Cordova Plugin for Spotteron",
   "cordova": {
-    "id": "cordova-plugin-translate",
+    "id": "cordova-plugin-spotteron",
     "platforms": [
       "android",
       "ios"
@@ -11,22 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spotteron/cordova-plugin-translate.git"
+    "url": "git+https://github.com/spotteron/cordova-plugin-spotteron.git"
   },
   "keywords": [
-    "cordova",
-    "ios",
-    "app",
-    "localization",
-    "strings",
-    "locale",
-    "internazionalization",
-    "i18n"
+    "spotteron"
   ],
   "author": "Spotteron",
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/spotteron/cordova-plugin-translate/issues"
+    "url": "https://github.com/spotteron/cordova-plugin-spotteron/issues"
   },
-  "homepage": "https://github.com/spotteron/cordova-plugin-translate#readme"
+  "homepage": "https://github.com/spotteron/cordova-plugin-spotteron#readme"
 }

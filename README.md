@@ -1,2 +1,2 @@
-# cordova-plugin-translate
-Cordova translate plugin
+# cordova-plugin-spotteron
+Cordova Plugin for Spotteron

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-		id="cordova-plugin-translate"
+		id="cordova-plugin-spotteron"
 		version="1.0.0">
 
-  <name>Cordova Plugin Translate</name>
+  <name>Cordova Plugin for Spotteron</name>
   
   <author>Spotteron</author>
   
-  <description>Cordova Plugin Translate</description>
+  <description>Cordova Plugin for Spotteron</description>
   
-  <keywords>cordova, ios, app, localization, strings, locale, internazionalization, i18n</keywords>
+  <keywords>spotteron</keywords>
   
   <license>Apache-2</license>
   
@@ -21,6 +21,13 @@
     
     <resource-file src="lang/ios/de.lproj" />
     <resource-file src="lang/ios/en.lproj" />
+    
+	<edit-config target="CFBundleLocalizations" file="*-Info.plist" mode="overwrite">
+        <array>
+        	<string>de</string>
+            <string>en</string>
+        </array>
+    </edit-config>
 
   </platform>
 </plugin>
