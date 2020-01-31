@@ -19,10 +19,9 @@
 
   <platform name="ios">
     
-    <resource-file src="lang/ios/de.lproj" />
-    <resource-file src="lang/ios/en.lproj" />
-    <resource-file src="lang/ios/de.lproj/InfoPlist.strings" />
-    <resource-file src="lang/ios/en.lproj/InfoPlist.strings" />
+    <resource-file src="lang/ios/de.lproj" target="de.lproj" />
+    <resource-file src="lang/ios/en.lproj" target="en.lproj" />
+
 
   </platform>
 </plugin>
