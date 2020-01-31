@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plugin id="cordova-plugin-translate" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+  <name>Cordova Plugin Translate</name>
+  <author>Spotteron</author>
+  <description>Cordova Plugin Translate</description>
+  <keywords>cordova, ios, app, localization, strings, locale, internazionalization, i18n</keywords>
+  <license>MIT</license>
+  <engines>
+    <engine name="cordova" version=">=3.0.0"/>
+  </engines>
+
+  <platform name="ios">
+    
+    <resource-file src="lang/ios/de.lproj" target="de.lproj" />
+    <resource-file src="lang/ios/en.lproj" target="en.lproj" />
+    <resource-file src="lang/ios/de.lproj/InfoPlist.strings" target="de.lproj/InfoPlist.strings" />
+    <resource-file src="lang/ios/en.lproj/InfoPlist.strings" target="en.lproj/InfoPlist.strings" />
+
+  </platform>
+</plugin>
