@@ -4,3 +4,4 @@
 "NSLocationWhenInUseUsageDescription" = "The app centers on your location at the start to display observations in your current area and to let you submit sightings faster. The app also shows your position on the map.";
 "NSLocationAlwaysUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
+"NSMotionUsageDescription" = "The app supports a track recording feature based on your motion sensor."
