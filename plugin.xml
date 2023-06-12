@@ -38,6 +38,9 @@
     <edit-config target="NSLocationAlwaysUsageDescription" file="*-Info.plist" mode="merge">
         <string>The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.</string>
     </edit-config>
+    <edit-config target="NSMotionUsageDescription" file="*-Info.plist" mode="merge">
+        <string>The app supports a track recording feature based on your motion sensor.</string>
+    </edit-config>
   
 
   </platform>
