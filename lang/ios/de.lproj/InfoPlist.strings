@@ -4,3 +4,4 @@
 "NSLocationWhenInUseUsageDescription" = "Die App zentriert sich zu Beginn auf Ihren Standort, um Beobachtungen in Ihrem aktuellen Gebiet anzuzeigen und um Ihnen zu ermöglichen, Sichtungen schneller festzuhalten. Die App zeigt auch Ihre Position auf der Karte an.";
 "NSLocationAlwaysUsageDescription" = "Die App zeigt Ihren ungefähren Standort auf der Karte an, um die Navigation zu erleichtern und auf den aktuellen Standort Ihrer Beobachtungseinreichung zu verweisen.";
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "Die App zeigt Ihren ungefähren Standort auf der Karte an, um die Navigation zu erleichtern und auf den aktuellen Standort Ihrer Beobachtungseinreichung zu verweisen.";
+"NSMotionUsageDescription" = "Die App unterstützt eine Track-Aufzeichnungsfunktion, die auf Ihrem Bewegungssensor basiert."
