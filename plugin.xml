@@ -41,7 +41,9 @@
     <edit-config target="NSMotionUsageDescription" file="*-Info.plist" mode="merge">
         <string>The app supports a track recording feature based on your motion sensor.</string>
     </edit-config>
-  
+    <edit-config target="NSMicrophoneUsageDescription" file="*-Info.plist" mode="merge">
+        <string>The app can add audio recordings to spots</string>
+    </edit-config>
 
   </platform>
 </plugin>
