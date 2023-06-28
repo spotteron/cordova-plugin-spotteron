@@ -5,3 +5,4 @@
 "NSLocationAlwaysUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
 "NSMotionUsageDescription" = "The app supports a track recording feature based on your motion sensor.";
+"NSMicrophoneUsageDescription" = "The app can add audio recordings to spots"
