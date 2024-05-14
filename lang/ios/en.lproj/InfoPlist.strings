@@ -1,8 +1,8 @@
-"NSCameraUsageDescription" = "You can take pictures of your observations with your camera and add them to your submissions in the app for documentation.";
-"NSPhotoLibraryUsageDescription" = "You can select saved pictures from your photo library at your device and add them to your submission in the app for documentation.";
-"NSPhotoLibraryAddUsageDescription" = "The app saves taken pictures of your observations to the photo library on your device.";
-"NSLocationWhenInUseUsageDescription" = "The app centers on your location at the start to display observations in your current area and to let you submit sightings faster. The app also shows your position on the map.";
-"NSLocationAlwaysUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "The app displays your approximate location on the map for navigation and to reference the current location of your observation submission.";
-"NSMotionUsageDescription" = "The app supports a track recording feature based on your motion sensor.";
-"NSMicrophoneUsageDescription" = "The app can add audio recordings to spots";
+"NSCameraUsageDescription" = "You can take pictures with your camera and add them to your uploads in the app.";
+"NSPhotoLibraryUsageDescription" = "You can select saved pictures from your photo library on your device and add them to your uploads in the app.";
+"NSPhotoLibraryAddUsageDescription" = "Allow the app to save your camera pictures to the photo library on your device.";
+"NSLocationWhenInUseUsageDescription" = "Allow the app to zoom to your map location at the start and to display your position on the map to you.";
+"NSLocationAlwaysUsageDescription" = "This permission enables you to get notifications of locations of interest near you. You also need this permission for using the routes recording feature in the app.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "With this permission, the app can zoom to your location on the map and allows you to get notifications of locations of interest near you. This permission is also required for optionally recording your routes.";
+"NSMotionUsageDescription" = "This permission enables you to use the routes recording feature using your device's motion sensor.";
+"NSMicrophoneUsageDescription" = "This permission allows you to record audio with your microphone and add it to your uploads in the app.";

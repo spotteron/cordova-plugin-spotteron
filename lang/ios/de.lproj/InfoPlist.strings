@@ -1,8 +1,8 @@
-"NSCameraUsageDescription" = "Sie können Bilder mit Ihrer Kamera machen und diese in der App, zur Dokumentation Ihrer Beobachtungen, hinzufügen.";
-"NSPhotoLibraryUsageDescription" = "Sie können Bilder aus Ihrer Fotobibliothek auswählen und diese in der App, zur Dokumentation Ihrer Beobachtungen, hinzufügen.";
-"NSPhotoLibraryAddUsageDescription" = "Die App speichert die aufgenommenen Bilder Ihrer Beobachtungen in der Fotobibliothek auf Ihrem Gerät.";
-"NSLocationWhenInUseUsageDescription" = "Die App zentriert sich zu Beginn auf Ihren Standort, um Beobachtungen in Ihrem aktuellen Gebiet anzuzeigen und um Ihnen zu ermöglichen, Sichtungen schneller festzuhalten. Die App zeigt auch Ihre Position auf der Karte an.";
-"NSLocationAlwaysUsageDescription" = "Die App zeigt Ihren ungefähren Standort auf der Karte an, um die Navigation zu erleichtern und auf den aktuellen Standort Ihrer Beobachtungseinreichung zu verweisen.";
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "Die App zeigt Ihren ungefähren Standort auf der Karte an, um die Navigation zu erleichtern und auf den aktuellen Standort Ihrer Beobachtungseinreichung zu verweisen.";
-"NSMotionUsageDescription" = "Die App unterstützt eine Track-Aufzeichnungsfunktion, die auf Ihrem Bewegungssensor basiert.";
-"NSMicrophoneUsageDescription" = "Die App kann Audio-Aufnahmen zu Spots hinzufügen";
+"NSCameraUsageDescription" = "Sie können Bilder mit Ihrer Kamera aufnehmen und sie in der App zu Ihren Uploads hinzufügen.";
+"NSPhotoLibraryUsageDescription" = "Sie können gespeicherte Bilder aus Ihrer Fotobibliothek auf Ihrem Gerät auswählen und sie in der App zu Ihren Uploads hinzufügen.";
+"NSPhotoLibraryAddUsageDescription" = "Erlauben Sie der App, Ihre Kamerabilder in der Fotobibliothek auf Ihrem Gerät zu speichern.";
+"NSLocationWhenInUseUsageDescription" = "Erlauben Sie der App, beim Start auf Ihre Kartenposition zu zoomen und Ihnen Ihre Position auf der Karte anzuzeigen.";
+"NSLocationAlwaysUsageDescription" = "Diese Berechtigung ermöglicht es Ihnen, Benachrichtigungen über interessante Orte in Ihrer Nähe zu erhalten. Sie benötigen diese Berechtigung auch für die Verwendung der Routenaufzeichnungsfunktion in der App.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Mit dieser Berechtigung kann die App auf Ihren Standort auf der Karte zoomen und ermöglicht es Ihnen, Benachrichtigungen über Orte von Interesse in Ihrer Nähe zu erhalten. Diese Berechtigung ist auch für die optionale Aufzeichnung Ihrer Routen erforderlich.";
+"NSMotionUsageDescription" = "Mit dieser Berechtigung können Sie die Funktion zur Aufzeichnung von Routen über den Bewegungssensor Ihres Geräts nutzen.";
+"NSMicrophoneUsageDescription" = "Mit dieser Berechtigung können Sie Audiodaten mit Ihrem Mikrofon aufnehmen und sie zu Ihren Uploads in der App hinzufügen.";
