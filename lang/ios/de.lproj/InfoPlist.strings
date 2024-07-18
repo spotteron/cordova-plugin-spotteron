@@ -1,4 +1,4 @@
-"NSCameraUsageDescription" = "Sie können Bilder mit Ihrer Kamera aufnehmen und sie in der App zu Ihren Uploads hinzufügen.";
+"NSCameraUsageDescription" = "Sie können Bilder mit Ihrer Kamera aufnehmen und sie mit der Community und dem Projekt in Ihren Spot-Uploads teilen.";
 "NSPhotoLibraryUsageDescription" = "Sie können gespeicherte Bilder aus Ihrer Fotobibliothek auf Ihrem Gerät auswählen und sie in der App zu Ihren Uploads hinzufügen.";
 "NSPhotoLibraryAddUsageDescription" = "Erlauben Sie der App, Ihre Kamerabilder in der Fotobibliothek auf Ihrem Gerät zu speichern.";
 "NSLocationWhenInUseUsageDescription" = "Erlauben Sie der App, beim Start auf Ihre Kartenposition zu zoomen und Ihnen Ihre Position auf der Karte anzuzeigen.";
