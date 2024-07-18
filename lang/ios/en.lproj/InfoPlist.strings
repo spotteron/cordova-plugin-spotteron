@@ -1,4 +1,4 @@
-"NSCameraUsageDescription" = "You can take pictures with your camera and add them to your uploads in the app.";
+"NSCameraUsageDescription" = "You can take pictures with your camera and share them with the community and the project in your spot uploads.";
 "NSPhotoLibraryUsageDescription" = "You can select saved pictures from your photo library on your device and add them to your uploads in the app.";
 "NSPhotoLibraryAddUsageDescription" = "Allow the app to save your camera pictures to the photo library on your device.";
 "NSLocationWhenInUseUsageDescription" = "Allow the app to zoom to your map location at the start and to display your position on the map to you.";
