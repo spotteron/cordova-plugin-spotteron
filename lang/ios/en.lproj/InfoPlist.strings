@@ -1,7 +1,7 @@
 "NSCameraUsageDescription" = "You can take pictures with your camera and share them with the community and the project in your spot uploads.";
-"NSPhotoLibraryUsageDescription" = "You can select saved pictures from your photo library on your device and add them to your uploads in the app.";
+"NSPhotoLibraryUsageDescription" = "You can select saved pictures from your photo library on your device and add them to your uploads in the app. Adding photos to your observations can greatly enhance the project's ability to interpret and understand your findings.";
 "NSPhotoLibraryAddUsageDescription" = "Allow the app to save your camera pictures to the photo library on your device.";
-"NSLocationWhenInUseUsageDescription" = "Allow the app to zoom to your map location at the start and to display your position on the map to you.";
+"NSLocationWhenInUseUsageDescription" = "Allow the app to zoom to your map location at the start and to display your position on the map to you. By showing your location on the map, the app helps you stay oriented and makes it easier to accurately place new observations.";
 "NSLocationAlwaysUsageDescription" = "This permission enables you to get notifications of locations of interest near you. You also need this permission for using the routes recording feature in the app.";
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "With this permission, the app can zoom to your location on the map and allows you to get notifications of locations of interest near you. This permission is also required for optionally recording your routes.";
 "NSMotionUsageDescription" = "This permission enables you to use the routes recording feature using your device's motion sensor.";
