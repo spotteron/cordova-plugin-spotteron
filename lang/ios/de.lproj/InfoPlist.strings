@@ -1,7 +1,7 @@
 "NSCameraUsageDescription" = "Sie können Bilder mit Ihrer Kamera aufnehmen und sie mit der Community und dem Projekt in Ihren Spot-Uploads teilen.";
-"NSPhotoLibraryUsageDescription" = "Sie können gespeicherte Bilder aus Ihrer Fotobibliothek auf Ihrem Gerät auswählen und sie in der App zu Ihren Uploads hinzufügen.";
+"NSPhotoLibraryUsageDescription" = "Sie können gespeicherte Bilder aus Ihrer Fotobibliothek auf Ihrem Gerät auswählen und sie in der App zu Ihren Uploads hinzufügen. Das Hinzufügen von Fotos zu Ihren Beobachtungen kann die Fähigkeit des Projekts, Ihre Ergebnisse zu interpretieren und zu verstehen, erheblich verbessern.";
 "NSPhotoLibraryAddUsageDescription" = "Erlauben Sie der App, Ihre Kamerabilder in der Fotobibliothek auf Ihrem Gerät zu speichern.";
-"NSLocationWhenInUseUsageDescription" = "Erlauben Sie der App, beim Start auf Ihre Kartenposition zu zoomen und Ihnen Ihre Position auf der Karte anzuzeigen.";
+"NSLocationWhenInUseUsageDescription" = "Erlauben Sie der App, beim Start auf Ihre Kartenposition zu zoomen und Ihnen Ihre Position auf der Karte anzuzeigen. Indem die App Ihren Standort auf der Karte anzeigt, hilft sie Ihnen, sich zu orientieren, und erleichtert die genaue Platzierung neuer Beobachtungen.";
 "NSLocationAlwaysUsageDescription" = "Diese Berechtigung ermöglicht es Ihnen, Benachrichtigungen über interessante Orte in Ihrer Nähe zu erhalten. Sie benötigen diese Berechtigung auch für die Verwendung der Routenaufzeichnungsfunktion in der App.";
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "Mit dieser Berechtigung kann die App auf Ihren Standort auf der Karte zoomen und ermöglicht es Ihnen, Benachrichtigungen über Orte von Interesse in Ihrer Nähe zu erhalten. Diese Berechtigung ist auch für die optionale Aufzeichnung Ihrer Routen erforderlich.";
 "NSMotionUsageDescription" = "Mit dieser Berechtigung können Sie die Funktion zur Aufzeichnung von Routen über den Bewegungssensor Ihres Geräts nutzen.";
